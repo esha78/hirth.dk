@@ -1,0 +1,345 @@
+# Reverse-chronological news log.
+# Items above the "divider: true" entry are upcoming/future items;
+# everything below is the historical log, newest first.
+
+- date: "18-21 Aug 2027"
+  text: |-
+    We host the [54th European Finance Association (EFA) Annual Meeting](https://www.european-finance.org/r/annual-meeting) in Aarhus.
+
+- date: "24-26 Sep 2026"
+  text: |-
+    I present "[Informative Financial Markets and Real Efficiency](https://ssrn.com/abstract=5030469)" at the [German Finance Association](https://www.whu.edu/de/news-insights/events/dgf2026/) in Düsseldorf.
+
+- divider: true
+
+- date: "11 Sep 2026"
+  text: |-
+    hirth.dk moved to GitHub Pages.
+
+- date: "14 Aug 2026"
+  text: |-
+    [Itay Goldstein](https://finance.wharton.upenn.edu/~itayg/) presents "[Informative Financial Markets and Real Efficiency](https://ssrn.com/abstract=5030469)" at the [Happy Valley Finance Conference](https://happyvalleyfinanceconference.com/) in State College, PA.
+
+- date: "10 Aug 2026"
+  text: |-
+    A new version of "Informative Financial Markets and Real Efficiency" is [available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030469).
+
+- date: "5-7 Aug 2026"
+  text: |-
+    I organize a PhD course "[The social value of financial-market information](https://econ.au.dk/dgpe/dgpe-courses/show/artikel/dgpe-phd-course-the-social-value-of-financial-market-information)" in Aarhus, taught by [Philip Bond](https://foster.uw.edu/faculty-research/directory/philip-bond/).
+
+- date: "2-4 Aug 2026"
+  text: |-
+    We organize the [Aarhus Finance Forum](https://econ.au.dk/aarhus-finance-forum-2026) - keynote speaker will be [Philip Bond](https://foster.uw.edu/faculty-research/directory/philip-bond/), University of Washington.
+
+- date: "10 Jul 2026"
+  text: |-
+    A new version of "Credit Rating Under Ambiguity" is [available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4564357).
+
+- date: "8 Jul 2026"
+  text: |-
+    A new version of "Financial Flexibility and Debt Maturity Concentration" is [available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170117).
+
+- date: "9 Jun 2026"
+  text: |-
+    I present "[Informative Financial Markets and Real Efficiency](https://ssrn.com/abstract=5030469)" and discuss "[Manipulation-Free Trading Mechanisms: Auction Design Approach](https://iris.unibocconi.it/bitstream/11565/4074084/2/Thesis_GG_March2025.pdf#page=146)" at the [SKEMA Conference on The Industrial Organization of Financial Markets](https://www.skema.edu/en/events/skema-conference-the-industrial-organization-financial-markets) in Sophia Antipolis / Nice.
+
+- date: "3 Jun 2026"
+  text: |-
+    [Matthias Lassak](https://sites.google.com/view/matthiaslassak) presents "[Informative Financial Markets and Real Efficiency](https://ssrn.com/abstract=5030469)", and I discuss "[Value-Maximization Spillovers in Merger Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5816683)" at the [SDU Finance Workshop](https://www.sdu.dk/en/sdufinanceworkshop) in Odense.
+
+- date: "1 Jun 2026"
+  text: |-
+    I present "[Financial Flexibility and Debt Maturity Concentration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170117)" at the [Lake District Workshop in Corporate Finance](https://wp.lancs.ac.uk/ldwcf/) in Bowness-on-Windermere / Lancester.
+
+- date: "19 May 2026"
+  text: |-
+    I present "[Informative Financial Markets and Real Efficiency](https://ssrn.com/abstract=5030469)" in the Finance Research Seminar at [Deakin University](https://www.deakin.edu.au/faculty-of-business-and-law/deakin-business-school/research), Burwood / Melbourne.
+
+- date: "12 May 2026"
+  text: |-
+    "[Information sharing with blockchain](https://doi.org/10.1016/j.respol.2026.105496)" is published in Research Policy.
+
+- date: "13-17 Apr 2026"
+  text: |-
+    I organize a PhD course "[Modeling Behavioral Biases in Economics and Finance](https://econ.au.dk/dgpe/dgpe-courses/show/artikel/dgpe-phd-course-modeling-behavioral-biases-in-economics-and-finance)" in Aarhus, taught by [Simon Gervais](https://sites.duke.edu/sgervais/).
+
+- date: "16 Apr 2026"
+  text: |-
+    A new version of "Financial Flexibility and Debt Maturity Concentration" is [available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170117).
+
+- date: "14 Apr 2026"
+  text: |-
+    A new version of "Target-Side Media Exposure and Takeover Outcomes: Evidence on Informational Salience and Bargaining Dynamics" is [available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3981459).
+
+- date: "29 Jan 2026"
+  text: |-
+    A new version of "Credit Rating Under Ambiguity" is [available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4564357).
+
+- date: "8 Dec 2025"
+  text: |-
+    I moved to a new work address, namely Universitetsbyen 55, [Building 1816](https://international.au.dk/about/contact-and-visitors-service?b=1816), office 539, DK-8000 Aarhus C.
+
+- date: "27-28 Nov 2025"
+  text: |-
+    I organize the [Young Scholars Nordic Finance Workshop 2025](https://nfn.projectsites.aalto.fi/wp-content/uploads/sites/12/2025/11/Young-Scholars-Workshop-Aarhus_2025_Program.pdf) in Aarhus - keynote speaker is [Marcus Opp](http://www.marcusopp.com/), Stockholm School of Economics.
+
+- date: "12 Nov 2025"
+  text: |-
+    The program for the [Young Scholars Nordic Finance Workshop 2025](https://nfn.projectsites.aalto.fi/wp-content/uploads/sites/12/2025/11/Young-Scholars-Workshop-Aarhus_2025_Program.pdf) in Aarhus is now available.
+
+- date: "8 Oct 2025"
+  text: |-
+    Congratulations to [Fynn Sowinski](https://www.linkedin.com/in/fynnsowinski/), who today [defended his PhD thesis](https://econ.au.dk/business-collaboration/networking-events/event-1/artikel/phd-defence-fynn-sowinski) "Essays on Financial Decision-Making".
+
+- date: "11 Sep 2025"
+  text: |-
+    I present "[ESG Alignment and Supply Chain Dynamics: Evidence from U.S. Customer-Supplier Relationships](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5098353)", and [Anil Kumar](https://sites.google.com/view/anilkumar/home) presents "[Financial Flexibility and Debt Maturity Concentration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170117)", at the [Corporate Finance Day](https://sites.google.com/rug.nl/cfdrug2025) in Groningen.
+
+- date: "17-19 Aug 2025"
+  text: |-
+    [Matthias Lassak](https://sites.google.com/view/matthiaslassak) and I host the [Third Aarhus Workshop on Strategic Interaction in Corporate Finance](https://www.dropbox.com/scl/fi/7ji2niorukp0e8v3o7550/Programme-CorpFin-2025.pdf?rlkey=mp6zwhxapxmklhxasedjlm3io&dl=0).
+
+- date: "28 Jul 2025"
+  text: |-
+    "[Information sharing with blockchain](https://doi.org/10.1016/j.respol.2026.105496)" is accepted for publication in Research Policy.
+
+- date: "8 Jul 2025"
+  text: |-
+    I present "[ESG Alignment and Supply Chain Dynamics: Evidence from U.S. Customer-Supplier Relationships](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5098353)" in the [Research Seminar Sustainable Accounting, Finance and Taxation](https://www.uni-goettingen.de/en/194069.html) at Georg-August-Universität Göttingen.
+
+- date: "3 Jul 2025"
+  text: |-
+    I present "[Financial Flexibility and Debt Maturity Concentration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170117)" and discuss "Two sides of the same coin: artificial intelligence, agency theory, and the evolving governance landscape" at the [PFN 2025 Conference](https://www.pfn2025.org/) in Vilamoura.
+
+- date: "1 Jul 2025"
+  text: |-
+    I act as member of the Assessment Committee at [Zhuolu Gao](https://zhuolugao.com/)'s PhD Defence at [Copenhagen Business School](https://www.cbs.dk/en).
+
+- date: "13 Jun 2025"
+  text: |-
+    I present "[Financial Flexibility and Debt Maturity Concentration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170117)" and discuss "A Model of Greenwashing" at the [FMA European Conference](https://fmai.memberclicks.net/2025-european-conference) in Limassol.
+
+- date: "4 Jun 2025"
+  text: |-
+    Negar Ghanbari presents "[Financial Flexibility and Debt Maturity Concentration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170117)", and I discuss "[Creating Intangible Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479152)" at the [SDU Finance Workshop](https://www.sdu.dk/en/forskning/forskningsenheder/samf/finance/events-and-seminar/sdufinanceworkshop) in Odense.
+
+- date: "28 May 2025"
+  text: |-
+    I present "[Financial Flexibility and Debt Maturity Concentration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170117)" and "[ESG Alignment and Supply Chain Dynamics: Evidence from U.S. Customer-Supplier Relationships](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5098353)" and discuss "State Aid in Times of Crisis, How Did Fixed Cost Grants Help Firms to Cope with COVID-19?" and "The Strategic ESG Talk and Investor Bias" at the conference of the [Association Française de Finance (AFFI)](https://affi2025.sciencesconf.org/) in Dijon.
+
+- date: "22 May 2025"
+  text: |-
+    I present "[Financial Flexibility and Debt Maturity Concentration](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170117)" in the [Brownbag Seminar](https://www.bwl.uni-mannheim.de/en/research-seminars/brownbag-seminar-ls-corporate-finance-30/) at the [University of Mannheim | Business School](https://www.bwl.uni-mannheim.de/en/).
+
+- date: "23 Apr 2025"
+  text: |-
+    A new version of "Information sharing with blockchain" is [available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4972961).
+
+- date: "19 Apr 2025"
+  text: |-
+    I am starting a new position as Visiting Researcher at [University of Mannheim](https://www.bwl.uni-mannheim.de/en/).
+
+- date: "9 Apr 2025"
+  text: |-
+    A new version of "Credit Rating Under Ambiguity" is [available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4564357).
+
+- date: "21 Mar 2025"
+  text: |-
+    The [Carlsberg Foundation](https://www.carlsbergfondet.dk/en) supports our [Third Aarhus Workshop on Strategic Interaction in Corporate Finance](https://www.dropbox.com/scl/fi/7ji2niorukp0e8v3o7550/Programme-CorpFin-2025.pdf?rlkey=mp6zwhxapxmklhxasedjlm3io&dl=0) with DKK 80'000 (10'725€).
+
+- date: "7 Mar 2025"
+  text: |-
+    A new working paper "Financial Flexibility and Debt Maturity Concentration" is [available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170117).
+
+- date: "15 Jan 2025"
+  text: |-
+    A new working paper "ESG Alignment and Supply Chain Dynamics: Evidence from U.S. Customer-Supplier Relationships" is [available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5098353).
+
+- date: "6 Jan 2025"
+  text: |-
+    A new version of "Digital Rights Management in Finance: Evidence from M&A" is [available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3981463).
+
+- date: "19 Dec 2024"
+  text: |-
+    I present "[Efficiency Implications of Knowledge Generation: Private versus Public Firms](https://ssrn.com/abstract=5030469)" and discuss "[Security Lending Market, Secondary Market Arbitrageurs, and ETF Mispricing](https://ssrn.com/abstract=4511381)" at the [December Finance Meeting](https://www.paris-december.eu/) in Paris.
+
+- date: "9 Dec 2024"
+  text: |-
+    The [Call for Papers](https://www.ssrn.com/index.cfm/en/janda/announcement/?id=16407) for the [Third Aarhus Workshop on Strategic Interaction in Corporate Finance](https://www.dropbox.com/scl/fi/7ji2niorukp0e8v3o7550/Programme-CorpFin-2025.pdf?rlkey=mp6zwhxapxmklhxasedjlm3io&dl=0) is published.
+
+- date: "30 Sep 2024"
+  text: |-
+    A new working paper "Information sharing with blockchain" is [available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4972961).
+
+- date: "28 Sep 2024"
+  text: |-
+    [Matthias Lassak](https://sites.google.com/view/matthiaslassak) presents "[Efficiency Implications of Knowledge Generation: Private versus Public Firms](https://ssrn.com/abstract=5030469)" at the [German Finance Association](https://www.dgf2024-conference.de/) in Aachen.
+
+- date: "28 Sep 2024"
+  text: |-
+    I present "[Credit Rating under Ambiguity](https://ssrn.com/abstract=4564357)" and discuss "[Bonding with risk: corporate investment and savings in risky financial assets](https://ssrn.com/abstract=4010801)" at the [German Finance Association](https://www.dgf2024-conference.de/) in Aachen.
+
+- date: "13 Sep 2024"
+  text: |-
+    [Matthias Lassak](https://sites.google.com/view/matthiaslassak) presents "[Efficiency Implications of Knowledge Generation: Private versus Public Firms](https://ssrn.com/abstract=5030469)" at the [Corporate Finance Days](https://feb.kuleuven.be/research/accounting-finance-insurance/conferences/cfd2024) in Leuven.
+
+- date: "18-20 Aug 2024"
+  text: |-
+    [Matthias Lassak](https://sites.google.com/view/matthiaslassak) and I host the [Second Aarhus Workshop on Strategic Interaction in Corporate Finance](https://www.dropbox.com/scl/fi/840uoqlh8sewfdl64n7od/Programme-CorpFin-2024.pdf?rlkey=sqgqhtmhnrwf1109o2weyozmz&dl=0).
+
+- date: "7 May 2024"
+  text: |-
+    I discuss "Crises, Exchange Rates, and Supply-Chain Changes" at the [PhD Nordic Finance Workshop](http://nfn.aalto.fi/workshops.htm) in Bergen.
+
+- date: "2&3 May 2024"
+  text: |-
+    I co-organize the [DFI Research Fellow Retreat 2024](https://cbs.nemtilmeld.dk/878/) at Sandbjerg Manor, Sønderborg.
+
+- date: "15 Mar 2024"
+  text: |-
+    I act as commentator for the 50%-seminar of PhD student [Hamid Cheraghali](https://www.uis.no/en/profile/3003) at [University of Stavanger](https://www.uis.no/en).
+
+- date: "8 Feb 2024"
+  text: |-
+    I received DKK 66'000 from the [Carlsberg Foundation](https://www.carlsbergfondet.dk/en) to support the [Second Aarhus Workshop on Strategic Interaction in Corporate Finance](https://www.dropbox.com/scl/fi/840uoqlh8sewfdl64n7od/Programme-CorpFin-2024.pdf?rlkey=sqgqhtmhnrwf1109o2weyozmz&dl=0). Submission deadline 20 Feb 2024 approaching!
+
+- date: "1 Jan 2024"
+  text: |-
+    "[The Information Value of Distress](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.4632)" just appeared finally "printed" in Management Science, Volume 70, Issue 1, January 2024, Pages 78–97.
+
+- date: "1 Dec 2023"
+  text: |-
+    The Call for Papers for the [Second Aarhus Workshop on Strategic Interaction in Corporate Finance](https://www.dropbox.com/scl/fi/840uoqlh8sewfdl64n7od/Programme-CorpFin-2024.pdf?rlkey=sqgqhtmhnrwf1109o2weyozmz&dl=0) is published.
+
+- date: "16 Nov 2023"
+  text: |-
+    I received a [DFI Publication Scholarship](https://danishfinanceinstitute.dk/publication-scholarship/hirth-stefan/) of DKK 43'301 for "[The Information Value of Distress](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.4632)".
+
+- date: "24-26 Oct 2023"
+  text: |-
+    I organize the PhD course "[Continuous-Time Models for Empirical Corporate Finance](https://econ.au.dk/news-and-events/event-item/artikel/phd-course-continuous-time-models-for-empirical-corporate-finance)" taught by [Christopher Hennessy](https://www.london.edu/faculty-and-research/faculty-profiles/h/hennessy-c).
+
+- date: "29 Sep 2023"
+  text: |-
+    I present "Investment Timing and Market Feedback" at the [German Finance Association](https://bank.uni-hohenheim.de/dgf2023) in Stuttgart-Hohenheim.
+
+- date: "26 Sep 2023"
+  text: |-
+    A new version of "Credit Rating under Ambiguity" is [available at SSRN](https://ssrn.com/abstract=4564357).
+
+- date: "14 Sep 2023"
+  text: |-
+    I present "Credit Rating under Ambiguity" at [SDU](https://www.sdu.dk/en/forskning/forskningsenheder/samf/finance/events-and-seminar/seminars) in Odense.
+
+- date: "31 Aug 2023"
+  text: |-
+    I present "Credit Rating under Ambiguity" at the [Econometric Society European Meeting](https://www.eea-esem-congresses.org/) in Barcelona.
+
+- date: "13-15 Aug 2023"
+  text: |-
+    [Matthias Lassak](https://sites.google.com/view/matthiaslassak) and I host the [Aarhus Workshop on Strategic Interaction in Corporate Finance](https://www.dropbox.com/scl/fi/ommfaybh55kkx6jv7jsl6/Programme-CorpFin-2023.pdf?rlkey=p0p641a7vm9ter1ng1j9f50ba&dl=0).
+
+- date: "8 Aug 2023"
+  text: |-
+    Christian Hilpert presents "Credit Rating under Ambiguity" at the [Australasian Meeting of the Econometric Society](https://www.esam2023.org/ESAM2023.html) in Sydney.
+
+- date: "30 Jun 2023"
+  text: |-
+    Christian Hilpert presents "Credit Rating under Ambiguity" at the [Asian Meeting of the Econometric Society](https://editorialexpress.com/conference/AMES2023China/program/AMES2023China.html) in Beijing.
+
+- date: "23 Jun 2023"
+  text: |-
+    I present "Investment Timing and Market Feedback" at the [FTG Summer School](https://events.uw.edu/FTGSummerSchool2023) in Seattle.
+
+- date: "14 Jun 2023"
+  text: |-
+    Aarhus Workshop on Strategic Interaction in Corporate Finance: [Program available](https://www.dropbox.com/scl/fi/ommfaybh55kkx6jv7jsl6/Programme-CorpFin-2023.pdf?rlkey=p0p641a7vm9ter1ng1j9f50ba&dl=0)!
+
+- date: "8 Jun 2023"
+  text: |-
+    I present "Investment Timing and Market Feedback" and discuss "R&D activities narrative disclosure: A new measure" at the [FMA European Conference](https://fmai.memberclicks.net/2023-european-conference) in Aalborg.
+
+- date: "7 Jun 2023"
+  text: |-
+    I discuss "Process Intangibles and Agency Conflicts" at the [SDU Finance Workshop](https://www.sdu.dk/en/forskning/forskningsenheder/samf/finance/events-and-seminar/sdufinanceworkshop) in Odense.
+
+- date: "18 Mar 2023"
+  text: |-
+    I present "Investment Timing and Market Feedback" and discuss "Ambiguity and Corporate Yield Spreads" at the [Midwest Finance Association](https://www.midwestfinance.org/) Annual Meeting in Chicago.
+
+- date: "20 Dec 2022"
+  text: |-
+    "The Information Value of Distress" is [published online in Management Science](https://doi.org/10.1287/mnsc.2022.4632).
+
+- date: "25 Nov 2022"
+  text: |-
+    I discuss "Investment-q Sensitivity under Endogenous Truncation" at the [Young Scholars Nordic Finance Workshop](http://nfn.aalto.fi/workshops.htm) in Oslo.
+
+- date: "22 Nov 2022"
+  text: |-
+    A new version of "Bankruptcy Prediction with Incomplete Accounting Information" is [available at SSRN](http://ssrn.com/abstract=4280446).
+
+- date: "16 Nov 2022"
+  text: |-
+    [Aarhus Workshop on Strategic Interaction in Corporate Finance](https://www.dropbox.com/scl/fi/ommfaybh55kkx6jv7jsl6/Programme-CorpFin-2023.pdf?rlkey=p0p641a7vm9ter1ng1j9f50ba&dl=0) -- call for papers and web page are online.
+
+- date: "1 Sep 2022"
+  text: |-
+    Welcome to [Fynn Sowinski](https://pure.au.dk/portal/en/persons/fynn-sowinski%28b308e617-783c-4eac-a0c1-cb7afb300510%29.html) at Aarhus University! Fynn will be a PhD student under my supervision.
+
+- date: "24 Aug 2022"
+  text: |-
+    A new version of "No News is Good News! Media Coverage and Corporate Takeover Characteristics" is [available at SSRN](http://ssrn.com/abstract=3981459).
+
+- date: "19 Aug 2022"
+  text: |-
+    Our paper "The Information Value of Distress" is accepted for publication in Management Science.
+
+- date: "27 Jul 2022"
+  text: |-
+    A new version of "The Information Value of Distress" is [available at SSRN](https://ssrn.com/abstract=2986850).
+
+- date: "12 Jul 2022"
+  text: |-
+    I present "Bankruptcy Prediction with Incomplete Accounting Information" and discuss "Adverse Selection Without a Housing Boom: Evidence from Fannie Mae's Credit Risk Transfers" at the [FMA European Conference in Lyon](https://www.fma.org/2022-european-conference).
+
+- date: "1 Jul 2022"
+  text: |-
+    Congratulations to [Narmin Nahidi](https://www.narminnahidi.com/), who just defended her PhD thesis, which I had the pleasure to be co-supervising. All the best for your future journey!
+
+- date: "21&22 Apr 2022"
+  text: |-
+    I co-organize the [DFI Research Fellow Retreat 2022](https://cbs.nemtilmeld.dk/189/at-DFI2022/) at Sandbjerg Manor, Sønderborg.
+
+- date: "23 Mar 2022"
+  text: |-
+    I present our new project "Investment Timing and Market Feedback" at [Universitat Autònoma de Barcelona](https://www.uab.cat/).
+
+- date: "1 Mar 2022"
+  text: |-
+    I present our new project "Bankruptcy Prediction with Incomplete Accounting Information" at the [NFN Webinar](https://www.nhh.no/en/departments/finance/young-scholars-nordic-finance-webinar-series/).
+
+- date: "17 Feb 2022"
+  text: |-
+    I became a member of the board of the [Nordic Finance Network (NFN)](http://nfn.aalto.fi/) for Aarhus University.
+
+- date: "16 Aug 2021"
+  text: |-
+    Welcome to [Narmin Nahidi](https://www.narminnahidi.com/) at Aarhus University! Narmin is a PhD student at Ca' Foscari University of Venice, visiting me for two months.
+
+- date: "02 Aug 2021"
+  text: |-
+    Welcome to [Matthias Lassak](https://sites.google.com/view/matthiaslassak) at Aarhus University! Matthias is partly funded by my [research project](/funded-projects/) "Debt valuation and strategic interaction".
+
+- date: "09 Dec 2020"
+  text: |-
+    I received a DKK 2.8 million grant from The Independent Research Fund Denmark. [News article](https://web.archive.org/web/20210303024943/https://econ.au.dk/news-and-events/nyheder/news-item/artikel/dkk-28-million-grant-to-stefan-hirth-from-irfd/).
+
+- date: "09 Oct 2020"
+  text: |-
+    Added [full CV](https://cvupload.au.dk/uploads/AU189228/cv_au_2020_sh_-_web.pdf).
+
+- date: "06 Oct 2020"
+  text: |-
+    hirth.dk moved to Google Sites.

@@ -1,0 +1,141 @@
+papers:
+  - title: "Informative Financial Markets and Real Efficiency"
+    authors: "Co-Authored with [Itay Goldstein](https://fnce.wharton.upenn.edu/profile/itayg/) and [Matthias Lassak](https://sites.google.com/view/matthiaslassak)"
+    date: "August 10, 2026"
+    links:
+      - label: "Available at SSRN"
+        url: "https://ssrn.com/abstract=5030469"
+    abstract: >-
+      Informative stock prices can improve firms' real decisions but require costly information
+      acquisition by market participants and affect firms' own incentives to generate information. We
+      develop a model in which a firm can improve its investment decision by generating internal
+      information, while speculators on the financial market engage in learning about the firm's
+      prospects to achieve trading gains. These choices are jointly determined in equilibrium because
+      each agent's marginal value of information depends on the other agents' information production.
+      The model implies that the private value of information to speculators can exceed its social value:
+      when information is expensive and competition among informed traders is weak, speculators
+      overinvest in information and financial markets reduce real efficiency. When information is cheap
+      and competition is strong, informative prices raise efficiency. As the firm's own information
+      production always enhances efficiency, a private firm can dominate a public firm if markets reduce
+      efficiency sufficiently.
+
+  - title: "Credit rating under ambiguity"
+    authors: "Co-Authored with [Christian Hilpert](http://www.christianhilpert.de/), [Jan Pape](https://www.wiso.uni-hamburg.de/fachbereich-sozoek/professuren/szimayer/team/pape-jan.html), and [Alexander Szimayer](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/szimayer/team/szimayer-alexander.html)"
+    date: "July 10, 2026"
+    links:
+      - label: "Available at SSRN"
+        url: "https://ssrn.com/abstract=4564357"
+    abstract: >-
+      We analyze a dynamic credit rating game with feedback effects in which the rating agency assesses a
+      firm under model uncertainty. The agency holds multiple priors over the firm's measurement error,
+      interpreted as heterogeneous analyst-team views of the firm's intangible assets, and its rating
+      feeds back into the firm's financing cost and default decision. Relative to a single-prior
+      benchmark, the ambiguity-averse agency places strictly more than half the weight on the less
+      informative of two selected priors. When priors share a common direction, jointly pessimistic
+      (optimistic) priors lead the firm to delay (accelerate) default, and credit spreads inherit the
+      pattern.
+
+  - title: "Financial Flexibility and Debt Maturity Concentration"
+    authors: "Co-Authored with [Negar Ghanbari](https://www.bi.edu/about-bi/employees/department-of-finance/negar-ghanbari/) and [Anil Kumar](https://sites.google.com/view/anilkumar/home/)"
+    date: "July 8, 2026"
+    links:
+      - label: "Available at SSRN"
+        url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170117"
+    abstract: >-
+      How does financial flexibility shape a firm's debt maturity structure? We show, both theoretically
+      and empirically, that greater flexibility leads firms to concentrate their maturities, raising
+      their exposure to refinancing risk. In our model, the firm chooses its maturity structure to trade
+      off rollover risk and issuance costs, while we allow investment to scale with borrowing capacity.
+      As asset values rise and investment nears first best, the rollover-risk benefit of dispersion
+      shrinks relative to its issuance-cost savings, and the firm concentrates maturities. We identify
+      this effect using local real estate price changes as plausibly exogenous shocks to the borrowing
+      capacity of firms that own real estate. In nearly three decades of U.S. data, higher real estate
+      values raise debt maturity concentration; the effect is stronger for corporate bonds than for bank
+      loans, for unsecured than for secured debt, for financially constrained firms, and for firms with
+      weaker growth options, and it carries over to newly issued debt. Concentration has a flip side:
+      firms entering the 2008-09 crisis with more concentrated maturities were markedly more fragile.
+      Financial flexibility, by encouraging maturity clustering in good times, can thus become a hidden
+      source of crisis-time fragility.
+
+  - title: "Target-Side Media Exposure and Takeover Outcomes: Evidence on Informational Salience and Bargaining Dynamics"
+    authors: "Co-Authored with [Narmin Nahidi](https://www.narminnahidi.com/)"
+    date: "April 14, 2026"
+    links:
+      - label: "Available at SSRN"
+        url: "http://ssrn.com/abstract=3981459"
+    abstract: >-
+      This paper studies whether abnormal target-side media exposure is associated with takeover pricing,
+      payment method, and completion dynamics in U.S. public-to-public acquisitions. We construct a
+      residualized measure of abnormal pre-announcement coverage that captures deviations from
+      predictable deal prominence using a Poisson model. In 4,352 transactions from 1997 to 2024,
+      aggregate abnormal exposure is associated with lower negotiated premiums, while its adverse
+      component is associated with higher premiums across measurement windows, indicating asymmetric
+      salience in takeover bargaining. Abnormal exposure is also associated with a higher likelihood of
+      cash financing and, under negative polarity, with faster early-stage completion. These patterns
+      remain after conditioning on announcement-period abnormal returns. Our evidence is more consistent
+      with bargaining pressure under adverse salience than with a purely short-horizon market-reaction
+      channel, suggesting that target-side visibility is a systematic correlate of takeover deal design.
+
+  - title: "ESG Alignment and Supply Chain Dynamics: Evidence from U.S. Customer-Supplier Relationships"
+    authors: "Co-Authored with [Sai Palepu](https://lally.rpi.edu/phd-students/sai-manikant-palepu)"
+    date: "January 15, 2025"
+    links:
+      - label: "Available at SSRN"
+        url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5098353"
+    abstract: >-
+      We study the role of Environmental, Social, and Governance (ESG) alignment in shaping
+      customer-supplier relationships within U.S. supply chains. Using data from the FactSet Revere
+      supply chain database and Refinitiv ESG scores (2003-2019), we find that major customers
+      significantly influence supplier ESG performance, with a 6.9% increase linked to one unit increase
+      in the major customer ESG scores. Positive ESG divergence, where a supplier outperforms its major
+      customer, increases the likelihood of relationship termination by 18.1%, underscoring the
+      importance of ESG alignment. Replacement suppliers generally exhibit higher ESG ratings than their
+      predecessors, suggesting a preference for sustainability when reconfiguring supply chains.
+
+  - title: "Digital Rights Management in Finance: Evidence from M&A"
+    authors: "Co-Authored with [Narmin Nahidi](https://www.narminnahidi.com/) and [Arman Eshraghi](https://profiles.cardiff.ac.uk/staff/eshraghia)"
+    date: "January 6, 2025"
+    links:
+      - label: "Available at SSRN"
+        url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3981463"
+    abstract: >-
+      This study explores the role of Digital Rights Management (DRM) systems in mergers and acquisitions
+      (M&A), focusing on their impact during due diligence. While DRM is widely recognized for
+      intellectual property protection, its influence on governance and information asymmetry in M&A
+      transactions has been underexplored. Using agency theory, we examine DRM's role in reducing risks
+      of information leakage and enhancing decision-making. Our findings show that DRM positively
+      influences financial and legal due diligence, enhancing performance indicators such as return on
+      assets and the thoroughness of legal assessments. However, DRM also negatively impacts business and
+      high-tech performance, especially in patent M&A, by limiting technological flexibility and
+      innovation. This suggests that while DRM strengthens data security, it may hinder the use of
+      patented technologies, particularly in patent-related M&A transactions. These insights underscore
+      DRM's dual role in enhancing security and governance while posing challenges for technological
+      flexibility, with important implications for M&A practitioners and policymakers.
+
+  - title: "Bankruptcy Prediction with Incomplete Accounting Information"
+    authors: "Co-Authored with [Christian Hilpert](http://www.christianhilpert.de/) and [Alexander Szimayer](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/szimayer/team/szimayer-alexander.html)"
+    date: "November 22, 2022"
+    links:
+      - label: "Available at SSRN"
+        url: "http://ssrn.com/abstract=4280446"
+    abstract: >-
+      How does a creditor's learning from a firm's strategic actions affect bankruptcy prediction, debt
+      values, and optimal capital structure? We investigate a Leland (1994) setting augmented by
+      asymmetric information on the firm's asset value. Observing the firm's survival of apparently
+      distressed periods, the creditor excludes asset value estimates that are too low to be consistent
+      with the observed survival. We show that the expected bankruptcy threshold decreases as result of
+      the learning. While expected asset and debt values decrease upon reaching new all-time-low asset
+      values, they are persistently higher once the observed asset value recovers to a given level, but
+      the creditor remembers the all-time low. In terms of selecting the capital structure, high quality
+      firms can separate and signal their quality by over-leveraging if the information asymmetry is high
+      enough. Moderate information asymmetry implies a pooling equilibrium.
+
+work_in_progress:
+  - title: "Maturity Choice, Debt Rollover, and Asymmetric Information"
+    authors: "Co-Authored with [Christian Hilpert](http://www.christianhilpert.de/), [Jan Pape](https://www.wiso.uni-hamburg.de/fachbereich-sozoek/professuren/szimayer/team/pape-jan.html), and [Alexander Szimayer](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/szimayer/team/szimayer-alexander.html)"
+
+  - title: "CEO Connectedness and Firm Performance: Evidence from Real Estate Investment Trusts"
+    authors: "Co-Authored with [Zifeng Feng](https://hb2504.utep.edu/Home/Profile?username=zfeng) and [Anil Kumar](https://sites.google.com/view/anilkumar/home/)"
+
+  - title: "Take out a mortgage to buy stocks? Portfolio choice for homeowners"
+    authors: "Co-Authored with [Fynn Sowinski](https://www.linkedin.com/in/fynnsowinski/)"

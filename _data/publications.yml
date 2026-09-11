@@ -1,0 +1,154 @@
+intro: >-
+  My research interests are in Corporate Finance. The common element in my research profile is the focus
+  on the strategic interaction and the possible conflicts of interest within and between firms. I
+  regularly present my work at international conferences and invited seminars. So far, I have published
+  my work in Management Science, Research Policy, the Journal of Corporate Finance, the Journal of
+  Banking and Finance, and the Journal of Business Finance & Accounting. My published articles deal with
+  the interaction of corporate investment and financing decisions, the value of intangible assets, and
+  the market for credit ratings.
+
+journal_articles:
+  - title: "Information sharing with blockchain"
+    authors: "Co-Authored with [Christian Riis Flor](https://sites.google.com/site/florfinance/Home), [Evgeny Lyandres](https://en-coller.tau.ac.il/profile/lyandres), and [Alexander Schandlbauer](https://sites.google.com/site/alexanderschandlbauer/)"
+    venue: "Research Policy, Volume 55, Issue 7, September 2026, 105496"
+    links:
+      - label: "Available at ScienceDirect"
+        url: "https://doi.org/10.1016/j.respol.2026.105496"
+      - label: "Available at SSRN"
+        url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4972961"
+    abstract: >-
+      We analyze benefits and limitations of information sharing among product market rivals via a
+      smart-contract-enabled blockchain. Firms face uncertain demand but obtain informative signals that
+      can be reported to a blockchain, which ensures immutable recording but does not guarantee
+      truthfulness. Truthful reporting is incentivized by requiring firms to post collateral ("stake"),
+      which is forfeited if the report is deemed untruthful ex-post. We derive a) conditions under which
+      truthful reporting arises in equilibrium and b) the necessary amount of collateral that ensures
+      truthful reporting, and examine their comparative statics with respect to ex-ante demand
+      uncertainty, signal precision, and competitive interaction among firms. While the collateral is
+      returned to firms whose production decision is consistent with their report, financially
+      constrained firms may struggle to afford the required stake. Thus, they are potentially unable to
+      join the blockchain. We investigate conditions under which it is beneficial for firms to partially
+      subsidize their rivals' collateral costs. Finally, we examine welfare implications of information
+      sharing via blockchain, and we show that such information sharing is welfare improving.
+
+  - title: "The Information Value of Distress"
+    authors: "Co-Authored with [Christian Hilpert](http://www.christianhilpert.de/) and [Alexander Szimayer](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/szimayer/team/szimayer-alexander.html)"
+    venue: "Management Science, Volume 70, Issue 1, January 2024, Pages 78–97"
+    links:
+      - label: "Available at INFORMS"
+        url: "https://doi.org/10.1287/mnsc.2022.4632"
+      - label: "Available at SSRN"
+        url: "https://ssrn.com/abstract=2986850"
+    abstract: >-
+      We propose a novel framework for investigating learning dynamics on the debt market. Observing a
+      firm's survival of apparently distressed periods, the market eliminates asset value estimates that
+      are too low to be consistent with the observed survival. Therefore, the firm's cost of debt becomes
+      lower for given financials. Relative to a perfect information setting, the firm strategically
+      delays default to benefit from a subsequently lower cost of debt. Default comes as a surprise, as
+      it reveals the currently worst possible asset value as correct. The surprise effect is mitigated
+      for debt with higher performance sensitivity and for lower ex-ante information asymmetry.
+
+  - title: "Measuring the value of intangibles"
+    authors: "Co-Authored with [Saskia Clausen](https://www.linkedin.com/in/saskia-clausen/)"
+    venue: "Journal of Corporate Finance, Volume 40, October 2016, Pages 110-127"
+    links:
+      - label: "Available at ScienceDirect"
+        url: "http://dx.doi.org/10.1016/j.jcorpfin.2016.07.012"
+    abstract: >-
+      We propose a new earnings-based measure for the value of intangibles. To validate this measure, we
+      compare it to commonly used proxies for intangible intensity, such as R&D expenses. While R&D
+      expenses measure the investment in new intangibles, our new measure gauges the productivity of
+      already existing intangibles. We show that our new measure serves as an additional factor to
+      explain firm value, measured either as market capitalization or acquisition prices in M&A
+      transactions. Moreover, it captures the increasing importance of intangibles over time. Finally, we
+      present a specific application of our intangible-intensity measure in the context of capital
+      structure. We find that more intangible-intensive firms have lower leverage.
+
+  - title: "Credit Rating Dynamics and Competition"
+    authors: null
+    venue: "Journal of Banking and Finance, Volume 49, December 2014, Pages 100-112"
+    links:
+      - label: "Available at ScienceDirect"
+        url: "http://dx.doi.org/10.1016/j.jbankfin.2014.08.011"
+    abstract: >-
+      I analyze the market for credit ratings with competition between more than two rating agencies. How
+      can honest rating behavior be achieved, and under which conditions can a new honest rating agency
+      successfully invade a market with inflating incumbents? My model predicts cyclic dynamics if
+      sophisticated investors have a high impact on agencies' reputation. In contrast, if trusting
+      investors have the main impact, then the dynamics exhibits a saddle point rather than cycles. In
+      this case, regulatory support for honest rating agencies is only needed for a limited time, but the
+      effect is sustainable in the long run.
+
+  - title: "Asset Liquidity, Corporate Investment, and Endogenous Financing Costs"
+    authors: "Co-Authored with [Christian Riis Flor](https://sites.google.com/site/florfinance/Home)"
+    venue: "Journal of Banking and Finance, Volume 37, Issue 2, February 2013, Pages 474-489"
+    links:
+      - label: "Available at ScienceDirect"
+        url: "http://dx.doi.org/10.1016/j.jbankfin.2012.09.014"
+    abstract: >-
+      We analyze how the liquidity of real and financial assets affects corporate investment. The
+      trade-off between liquidation costs and underinvestment costs implies that low-liquidity firms
+      exhibit negative investment sensitivities to liquid funds, whereas high-liquidity firms have
+      positive sensitivities. If real assets are not divisible in liquidation, firms with high financial
+      liquidity optimally avoid external financing and instead cut new investment. If real assets are
+      divisible, firms use external financing, which implies a lower sensitivity. In addition, asset
+      redeployability decreases the investment sensitivity. Our findings demonstrate that asset liquidity
+      is an important determinant of corporate investment.
+
+  - title: "Financing Constraints, Cash-Flow Risk, and Corporate Investment"
+    authors: "Co-Authored with [Marc Viswanatha](https://www.linkedin.com/in/marc-viswanatha-548a91/)"
+    venue: "Journal of Corporate Finance, Volume 17, Issue 5, December 2011, Pages 1496-1509"
+    links:
+      - label: "Available at ScienceDirect"
+        url: "http://dx.doi.org/10.1016/j.jcorpfin.2011.09.002"
+    abstract: >-
+      Using an analytically tractable two-period model of a financially constrained firm, we derive an
+      investment threshold that is U-shaped in cash holdings. We show analytically the relevant
+      trade-offs leading to the U-shape: the firm balances financing costs for present and future
+      investment, respectively. Our main argument is that financing costs today are more important than
+      the risk of future financing costs. The empirically testable implications are that low-cash firms
+      facing financing costs today are more reluctant to invest if they have less cash, or if their
+      future cash flows are more risky. On the other hand, cash-rich firms facing no financing costs
+      today invest in less favorable projects (i.e., forgo their real option to wait) if they have less
+      cash, or if their future cash flows are more risky. The magnitude of these effects is amplified by
+      the degree of market frictions that the firms are facing.
+
+  - title: "Investment Timing When External Financing Is Costly"
+    authors: "Co-Authored with [Marliese Uhrig-Homburg](https://derivate.fbv.kit.edu/english/Current-Team_Uhrig-Homburg.php)"
+    venue: "Journal of Business Finance & Accounting, Volume 37, Issue 7-8, September/October 2010, Pages 929-949"
+    links:
+      - label: "Available at Wiley InterScience"
+        url: "http://dx.doi.org/10.1111/j.1468-5957.2010.02206.x"
+    abstract: >-
+      This paper analyzes the investment timing of firms facing two dimensions of financing constraints:
+      Liquidity constraints and capital market frictions inducing financing costs. We show that liquidity
+      constraints are not sufficient to explain voluntary investment delay. However, when additionally
+      considering financing costs, we can explain both voluntary delay and acceleration of investment.
+      More precisely, we find that investment thresholds are U-shaped in liquid funds. For high-liquidity
+      firms, investment thresholds are decreasing (i.e. accelerated investment takes place) in either
+      dimension of financing constraint. In contrast, investment thresholds are increasing (i.e.
+      investment is further delayed) in either form of financing constraint for low-liquidity firms. For
+      intermediate levels of liquidity, investment thresholds are U-shaped in market frictions.
+
+  - title: "Investment Timing, Liquidity, and Agency Costs of Debt"
+    authors: "Co-Authored with [Marliese Uhrig-Homburg](https://derivate.fbv.kit.edu/english/Current-Team_Uhrig-Homburg.php)"
+    venue: "Journal of Corporate Finance, Volume 16, Issue 2, April 2010, Pages 243-258"
+    links:
+      - label: "Available at ScienceDirect"
+        url: "http://dx.doi.org/10.1016/j.jcorpfin.2010.01.002"
+    abstract: >-
+      This paper examines the effect of debt and liquidity on corporate investment in a continuous-time
+      framework. We show that stockholder-bondholder agency conflicts cause investment thresholds to be
+      U-shaped in leverage and decreasing in liquidity. In the absence of tax effects, we derive the
+      optimal level of liquid funds that eliminates agency costs by implementing the first best
+      investment policy for a given capital structure. In a second step we generalize the framework by
+      introducing a tax advantage of debt, and we show that an interior solution for liquidity and
+      capital structure optimally trades off tax benefits and agency costs of debt.
+
+monographs:
+  - title: "Liquide Mittel und Investitionsentscheidungen - Ein optionstheoretischer Ansatz"
+    subtitle: "(\"Liquid Funds and Investment Decisions - An Option Theory Approach\")"
+    venue: "Beiträge zur betriebswirtschaftlichen Forschung 118, Gabler Verlag, Wiesbaden 2008"
+    links:
+      - label: "Available at Springer Gabler"
+        url: "https://www.springer.com/gp/book/9783834910677"

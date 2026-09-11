@@ -1,0 +1,20 @@
+---
+layout: default
+title: News
+permalink: /
+description: Latest news from Stefan Hirth — talks, papers, publications, and more.
+---
+<h1>News</h1>
+
+<ul class="news-list">
+{% for item in site.data.news %}
+  {% if item.divider %}
+  <li><hr class="news-divider"></li>
+  {% else %}
+  <li class="news-item">
+    <div class="news-date">{{ item.date }}</div>
+    <div class="news-text">{{ item.text | markdownify }}</div>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>

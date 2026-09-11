@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <div class="wrap">
+    <p>&copy; {{ 'now' | date: "%Y" }} Stefan Hirth &middot; Aarhus University &middot; <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+  </div>
+</footer>
+
+<script>
+  document.querySelector('.nav-toggle').addEventListener('click', function () {
+    var nav = document.querySelector('.site-nav');
+    var expanded = this.getAttribute('aria-expanded') === 'true';
+    this.setAttribute('aria-expanded', String(!expanded));
+    nav.classList.toggle('open');
+  });
+</script>

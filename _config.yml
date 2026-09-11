@@ -1,0 +1,40 @@
+title: Stefan Hirth
+tagline: Associate Professor of Finance, Aarhus University
+description: >-
+  Personal academic homepage of Stefan Hirth — research, publications,
+  teaching, and news.
+url: "https://hirth.dk"
+baseurl: ""
+
+author:
+  name: Stefan Hirth
+  email: stefan@econ.au.dk
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+permalink: /:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+collections:
+  news:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - node_modules

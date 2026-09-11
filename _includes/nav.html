@@ -1,0 +1,17 @@
+<header class="site-header">
+  <div class="wrap site-header__inner">
+    <a class="site-title" href="{{ '/' | relative_url }}">Stefan Hirth</a>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="site-nav">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>News</a>
+      <a href="{{ '/profile/' | relative_url }}"{% if page.url == '/profile/' %} class="active"{% endif %}>Profile</a>
+      <a href="{{ '/teaching/' | relative_url }}"{% if page.url == '/teaching/' %} class="active"{% endif %}>Teaching</a>
+      <a href="{{ '/publications/' | relative_url }}"{% if page.url == '/publications/' %} class="active"{% endif %}>Publications</a>
+      <a href="{{ '/working-papers/' | relative_url }}"{% if page.url == '/working-papers/' %} class="active"{% endif %}>Working Papers</a>
+      <a href="{{ '/funded-projects/' | relative_url }}"{% if page.url == '/funded-projects/' %} class="active"{% endif %}>Funded Projects</a>
+      <a href="{{ '/workshops/' | relative_url }}"{% if page.url == '/workshops/' %} class="active"{% endif %}>Workshops</a>
+    </nav>
+  </div>
+</header>

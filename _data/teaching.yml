@@ -1,0 +1,34 @@
+institutions:
+  - name: "Aarhus BSS, Aarhus University"
+    url: "http://bss.au.dk/en/"
+    courses:
+      - "[Corporate Finance](https://econ.au.dk/education/phd/phd-courses/phd-course-corporate-finance) (PhD): 2026"
+      - "[Corporate Finance](https://kursuskatalog.au.dk/en/course/141161/Corporate-Finance) (BSc), part of [Investments and Corporate Finance](https://kursuskatalog.au.dk/en/course/141394/Investments-and-Corporate-Finance): 2021-2026"
+      - "[Mathematics for Economists](https://kursuskatalog.au.dk/en/course/140882/2622-Mathematics-for-Economists) (BSc; in Danish; 1st half, linear algebra and analysis): 2025, 2026"
+      - "[Corporate Finance](https://kursuskatalog.au.dk/en/course/125884/Corporate-Finance) (MSc): 2019-2024"
+      - "[Advanced Topics in Quantitative Economics](https://kursuskatalog.au.dk/en/course/119965/6860-Advanced-Topics-in-Quantitative-Economics-10-ECTS) (PhD): 2023"
+      - "[Advanced Corporate Finance](https://kursuskatalog.au.dk/en/course/94799/6350-Advanced-Corporate-Finance) (PhD): 2019"
+      - "[Finance](https://kursuskatalog.au.dk/en/course/69989/Finance) (BSc; part \"Corporate Finance\"): 2016, 2017"
+      - "[Accounting and Financial Management](https://kursuskatalog.au.dk/en/course/67639/Accounting-and-Financial-Management) (MBA; part \"Financial Management\"): 2014, 2016"
+      - "[Real Options and Strategic Interaction](https://kursuskatalog.au.dk/en/course/60336/Real-Options-and-Strategic-Interaction) (MSc): 2008-2015"
+      - "Corporate Finance II (MSc): 2013, 2015"
+      - "Corporate Finance (MBA): 2014"
+      - "Corporate Finance I (MSc): 2009-2012"
+      - "Asset Pricing I (MSc): 2007-2008"
+
+  - name: "University of Southern Denmark (SDU)"
+    url: "http://www.sdu.dk/"
+    courses:
+      - "Topics in Finance (MSc; \"Credit Ratings and Credit Risk\"): 2018"
+      - "Finansiering, investering og virksomhedsstrategi (BSc; in Danish): 2017, 2018"
+
+  - name: "HECTOR School of Engineering and Management, KIT"
+    url: "https://hector.idschools.kit.edu/"
+    courses:
+      - "Modern Theory of Investment (Exec MSc): 2008-2009"
+
+  - name: "Universität Karlsruhe (TH)"
+    url: "http://www.kit.edu/english/"
+    courses:
+      - "Credit Risk (Diploma): 2006-2007 (Teaching Assistant)"
+      - "Capital Market Theory (Diploma): 2002-2005 (Teaching Assistant)"
