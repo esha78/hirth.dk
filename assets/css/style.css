@@ -257,8 +257,8 @@ main.wrap {
   flex-wrap: wrap;
 }
 .profile-photo {
-  width: 136px;
-  height: 136px;
+  width: 150px;
+  height: 260px;
   border-radius: 4px;
   object-fit: cover;
   background: var(--bg-alt);
@@ -305,5 +305,5 @@ main.wrap {
   .news-item { grid-template-columns: 1fr; gap: 0.2rem; }
   .news-date { font-size: 0.7rem; }
   .profile-header { gap: 1.25rem; }
-  .profile-photo { width: 108px; height: 108px; }
+  .profile-photo { width: 120px; height: 208px; }
 }
