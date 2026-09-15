@@ -6,6 +6,10 @@ description: >-
 url: "https://hirth.dk"
 baseurl: ""
 
+# Analytics: your GoatCounter subdomain only, e.g. "hirth" for hirth.goatcounter.com
+# Leave empty to disable tracking entirely.
+goatcounter_code: ""
+
 author:
   name: Stefan Hirth
   email: stefan@econ.au.dk
