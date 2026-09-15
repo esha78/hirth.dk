@@ -11,7 +11,8 @@ description: Latest news from Stefan Hirth — talks, papers, publications, and 
   {% if item.divider %}
   <li><hr class="news-divider"></li>
   {% else %}
-  <li class="news-item">
+  {% assign next_item = site.data.news[forloop.index] %}
+  <li class="news-item{% if next_item.divider %} news-item--last-future{% endif %}">
     <div class="news-date">{{ item.date }}</div>
     <div class="news-text">{{ item.text | markdownify }}</div>
   </li>
