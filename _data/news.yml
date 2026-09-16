@@ -12,6 +12,10 @@
 
 - divider: true
 
+- date: "16 Sep 2026"
+  text: |-
+    A new version of "Credit Rating Under Ambiguity" is [available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4564357).
+
 - date: "11 Sep 2026"
   text: |-
     hirth.dk moved to GitHub Pages.

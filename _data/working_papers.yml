@@ -1,4 +1,20 @@
 papers:
+  - title: "Credit rating under ambiguity"
+    authors: "Co-Authored with [Christian Hilpert](http://www.christianhilpert.de/), [Jan Pape](https://www.wiso.uni-hamburg.de/fachbereich-sozoek/professuren/szimayer/team/pape-jan.html), and [Alexander Szimayer](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/szimayer/team/szimayer-alexander.html)"
+    date: "September 16, 2026"
+    links:
+      - label: "Available at SSRN"
+        url: "https://ssrn.com/abstract=4564357"
+    abstract: >-
+      We analyze a dynamic credit rating game with feedback effects in which the rating agency assesses a
+      firm under model uncertainty. The agency holds multiple priors over the firm's measurement error,
+      interpreted as heterogeneous analyst-team views of the firm's intangible assets, and its rating
+      feeds back into the firm's financing cost and default decision. Relative to a single-prior
+      benchmark, the ambiguity-averse agency places strictly more than half the weight on the less
+      informative of two endogenously selected priors. When priors share a common direction, jointly
+      pessimistic (optimistic) priors lead the firm to delay (accelerate) default, and credit spreads
+      inherit the pattern.
+
   - title: "Informative Financial Markets and Real Efficiency"
     authors: "Co-Authored with [Itay Goldstein](https://fnce.wharton.upenn.edu/profile/itayg/) and [Matthias Lassak](https://sites.google.com/view/matthiaslassak)"
     date: "August 10, 2026"
@@ -18,22 +34,6 @@ papers:
       and competition is strong, informative prices raise efficiency. As the firm's own information
       production always enhances efficiency, a private firm can dominate a public firm if markets reduce
       efficiency sufficiently.
-
-  - title: "Credit rating under ambiguity"
-    authors: "Co-Authored with [Christian Hilpert](http://www.christianhilpert.de/), [Jan Pape](https://www.wiso.uni-hamburg.de/fachbereich-sozoek/professuren/szimayer/team/pape-jan.html), and [Alexander Szimayer](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/szimayer/team/szimayer-alexander.html)"
-    date: "July 10, 2026"
-    links:
-      - label: "Available at SSRN"
-        url: "https://ssrn.com/abstract=4564357"
-    abstract: >-
-      We analyze a dynamic credit rating game with feedback effects in which the rating agency assesses a
-      firm under model uncertainty. The agency holds multiple priors over the firm's measurement error,
-      interpreted as heterogeneous analyst-team views of the firm's intangible assets, and its rating
-      feeds back into the firm's financing cost and default decision. Relative to a single-prior
-      benchmark, the ambiguity-averse agency places strictly more than half the weight on the less
-      informative of two selected priors. When priors share a common direction, jointly pessimistic
-      (optimistic) priors lead the firm to delay (accelerate) default, and credit spreads inherit the
-      pattern.
 
   - title: "Financial Flexibility and Debt Maturity Concentration"
     authors: "Co-Authored with [Negar Ghanbari](https://www.bi.edu/about-bi/employees/department-of-finance/negar-ghanbari/) and [Anil Kumar](https://sites.google.com/view/anilkumar/home/)"
