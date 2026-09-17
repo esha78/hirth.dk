@@ -11,4 +11,11 @@
     this.setAttribute('aria-expanded', String(!expanded));
     nav.classList.toggle('open');
   });
+
+  document.querySelectorAll('a[href^="http"]').forEach(function (link) {
+    if (link.hostname !== window.location.hostname) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
 </script>
