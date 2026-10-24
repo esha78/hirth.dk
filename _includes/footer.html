@@ -12,8 +12,8 @@
     nav.classList.toggle('open');
   });
 
-  document.querySelectorAll('a[href^="http"]').forEach(function (link) {
-    if (link.hostname !== window.location.hostname) {
+  document.querySelectorAll('a[href^="http"], a[href$=".pdf"]').forEach(function (link) {
+    if (link.hostname !== window.location.hostname || link.pathname.endsWith('.pdf')) {
       link.setAttribute('target', '_blank');
       link.setAttribute('rel', 'noopener noreferrer');
     }
