@@ -1,4 +1,27 @@
 papers:
+  - title: "Financial Flexibility and Debt Maturity Concentration"
+    authors: "Co-Authored with [Negar Ghanbari](https://www.bi.edu/about-bi/employees/department-of-finance/negar-ghanbari/) and [Anil Kumar](https://sites.google.com/view/anilkumar/home/)"
+    date: "November 3, 2026"
+    links:
+      - label: "Available at SSRN"
+        url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170117"
+    abstract: >-
+      How does financial flexibility shape a firm's debt maturity structure? We show, both theoretically
+      and empirically, that greater flexibility leads firms to concentrate their maturities, raising
+      their exposure to refinancing risk. In our model, the firm chooses its maturity structure to trade
+      off rollover risk and issuance costs, while we allow investment to scale with borrowing capacity.
+      As asset values rise and investment nears first best, the rollover-risk benefit of dispersion
+      shrinks relative to its issuance-cost savings, and the firm concentrates maturities. We identify
+      this effect using local real estate price changes as plausibly exogenous shocks to the borrowing
+      capacity of firms that own real estate. In nearly three decades of U.S. data, higher real estate
+      values raise debt maturity concentration; the effect is stronger for corporate bonds than for bank
+      loans, for unsecured than for secured debt, for financially constrained firms, and for firms with
+      weaker growth options, and it carries over to newly issued debt. Concentration has a flip side:
+      for firms entering the 2008-09 crisis with more concentrated maturities, the stabilizing effect
+      of higher real estate values on distance to default vanished during the crisis. Financial
+      flexibility, by encouraging maturity clustering in good times, may thus become a hidden source
+      of crisis-time fragility.
+
   - title: "Credit rating under ambiguity"
     authors: "Co-Authored with [Christian Hilpert](http://www.christianhilpert.de/), [Jan Pape](https://www.wiso.uni-hamburg.de/fachbereich-sozoek/professuren/szimayer/team/pape-jan.html), and [Alexander Szimayer](https://www.wiso.uni-hamburg.de/en/fachbereich-sozoek/professuren/szimayer/team/szimayer-alexander.html)"
     date: "September 16, 2026"
@@ -34,28 +57,6 @@ papers:
       and competition is strong, informative prices raise efficiency. As the firm's own information
       production always enhances efficiency, a private firm can dominate a public firm if markets reduce
       efficiency sufficiently.
-
-  - title: "Financial Flexibility and Debt Maturity Concentration"
-    authors: "Co-Authored with [Negar Ghanbari](https://www.bi.edu/about-bi/employees/department-of-finance/negar-ghanbari/) and [Anil Kumar](https://sites.google.com/view/anilkumar/home/)"
-    date: "July 8, 2026"
-    links:
-      - label: "Available at SSRN"
-        url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5170117"
-    abstract: >-
-      How does financial flexibility shape a firm's debt maturity structure? We show, both theoretically
-      and empirically, that greater flexibility leads firms to concentrate their maturities, raising
-      their exposure to refinancing risk. In our model, the firm chooses its maturity structure to trade
-      off rollover risk and issuance costs, while we allow investment to scale with borrowing capacity.
-      As asset values rise and investment nears first best, the rollover-risk benefit of dispersion
-      shrinks relative to its issuance-cost savings, and the firm concentrates maturities. We identify
-      this effect using local real estate price changes as plausibly exogenous shocks to the borrowing
-      capacity of firms that own real estate. In nearly three decades of U.S. data, higher real estate
-      values raise debt maturity concentration; the effect is stronger for corporate bonds than for bank
-      loans, for unsecured than for secured debt, for financially constrained firms, and for firms with
-      weaker growth options, and it carries over to newly issued debt. Concentration has a flip side:
-      firms entering the 2008-09 crisis with more concentrated maturities were markedly more fragile.
-      Financial flexibility, by encouraging maturity clustering in good times, can thus become a hidden
-      source of crisis-time fragility.
 
   - title: "ESG Alignment and Supply Chain Dynamics: Evidence from U.S. Customer-Supplier Relationships"
     authors: "Co-Authored with [Sai Palepu](https://www.hofstra.edu/faculty-profile/?id=11576)"
