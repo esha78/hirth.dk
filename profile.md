@@ -22,7 +22,7 @@ description: Stefan Hirth — Associate Professor, Aarhus BSS, Aarhus University
       official web: <a href="https://www.au.dk/en/stefan@econ.au.dk">au.dk/en/stefan@econ.au.dk</a><br>
       e-mail: stefan [at] econ.au.dk
     </p>
-    <p><a href="https://cvupload.au.dk/uploads/AU189228/cv_au_2020_sh_-_web.pdf">Link to full CV</a></p>
+    <p><a href="{{ '/assets/cv/cv.pdf' | relative_url }}">Curriculum Vitae (PDF)</a></p>
   </div>
 </div>
 
